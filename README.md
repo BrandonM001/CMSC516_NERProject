@@ -4,7 +4,10 @@ NER Model to parse CoNLL-2003 data and identify named entities.
 **To Run:**
 1. Download `NER_Conll2003_Final.ipynb`.
 2. Pull your Hugging Face access token (needs to have write permissions).
-3. Upload `NER_Conll2003_Final.ipynb` to Google Colab.
+3. Upload `NER_Conll2003_Final.ipynb` to Google Colab. (File > Upload Notebook)
+
+![image](https://github.com/BrandonM001/CMSC516_NERProject/assets/43420985/dd1f2109-e323-4f43-a3ce-09596100ac01)
+
 4. Under the second code snippet in the "Inspect the Dataset" section, the code will attempt to log in to Hugging Face. It will likely error out on the first run. Once you provide your Hugging Face access token:
    - Click into the code box.
     ![image](https://github.com/BrandonM001/CMSC516_NERProject/assets/43420985/07f2b2b6-ddfa-4bda-a343-691a9290b7d2)
